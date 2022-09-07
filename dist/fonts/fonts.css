@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Railway;
+	font-style: normal;
+	src: url('./Railway.otf');
+	src: url('./RailwayAlternate.otf');  /* IE6-8 */
+}
+
+@font-face {
+	font-family: Varela;
+	font-style: normal;
+	src: url('./VarelaRound-Regular.ttf');
+}
